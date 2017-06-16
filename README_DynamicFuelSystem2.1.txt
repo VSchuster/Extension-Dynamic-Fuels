@@ -4,7 +4,7 @@ Project Component:	Extension-Dynamic-Fuel-System
 Component Deposition:	https://github.com/LANDIS-II-Foundation/Extension-Dynamic-Fuel-System
 Author:			LANDIS-II Foundation
 Origin Date:		30 Apr 2017
-Final Date:		
+Final Date:		  15 Jun 2017
 
 
 The purpose of the Extension-Dynamic-Fuel-System repository is SOLELY to produce the 
@@ -17,6 +17,6 @@ The "Dynamic Fire Fuel System" requires two libraries:
 The Landis.Extension.DynamicFuels.dll must be built from this repository and then ADDED to the 
 /src/bin/debug/ directory of the Extension-Dynamic-Fire-System repository in order to install 
 BOTH Landis.Extension.DynamicFuels.dll and Landis.Extension.DynamicFire.dll as the 
-"Dynamic Fire Fuel System" extension w/ one installer, "Dynamic Fire Fuel System 3.0.iss".
-The Dynamic Fire Fuel System 3.0.iss installer is located in the Extension-Dynamic-Fire-System repository.
+"Dynamic Fire Fuel System" extension w/ one installer, "Dynamic Fire Fuel System 2.1.iss".
+The Dynamic Fire Fuel System 2.1.iss installer is located in the Extension-Dynamic-Fire-System repository.
 
